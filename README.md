@@ -1,12 +1,12 @@
-# Poetry Camera 詩歌相機 🎭📷
+# Poetry Camera 詩意相機 🎭📷
 
 A Raspberry Pi-based AI poetry camera that combines gesture recognition, image analysis, and automatic poetry generation. When you make a gesture, the camera automatically takes a photo, analyzes the content, and generates unique poetry, which is then printed through a thermal printer.
 
-一個基於 Raspberry Pi 的 AI 詩歌相機，結合手勢識別、影像分析和自動詩歌生成功能。當您做出手勢時，相機會自動拍照、分析內容，並生成獨特的詩歌，最後通過熱敏印表機列印出來。
+一個基於 Raspberry Pi 的 AI 詩意相機，結合手勢識別、影像分析和自動新詩生成功能。當您做出手勢時，相機會自動拍照、分析內容，並生成獨特的新詩，最後通過熱敏印表機列印出來。
 
 ## ✨ 功能特色 / Features
 
-- 🤖 **AI 驅動詩歌生成 / AI-Driven Poetry Generation**: 使用 OpenAI GPT-4o 分析照片，DeepSeek 生成中文詩歌 / Uses OpenAI GPT-4o to analyze photos, DeepSeek to generate Chinese poetry
+- 🤖 **AI 驅動新詩生成 / AI-Driven Poetry Generation**: 使用 OpenAI GPT-4o 分析照片，DeepSeek 生成中文新詩 / Uses OpenAI GPT-4o to analyze photos, DeepSeek to generate Chinese poetry
 - ✋ **手勢識別觸發 / Gesture Recognition Trigger**: 支援 OK 手勢和 YA 手勢自動觸發拍照 / Supports OK and YA gestures for automatic photo capture
 - 🌐 **雙語介面支援 / Bilingual Interface Support**: 完整的中英文雙語介面，包含所有操作提示和錯誤訊息 / Complete bilingual Chinese-English interface with all operation prompts and error messages
 - 🎵 **音階提示音系統 / Musical Prompt System**: 豐富的音樂提示音，包含啟動、倒數、成功等不同音效 / Rich musical prompts including startup, countdown, success sounds
