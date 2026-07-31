@@ -19,6 +19,32 @@ A Raspberry Pi-based AI poetry camera that combines gesture recognition, image a
 - 🛡️ **智能容錯 / Intelligent Fault Tolerance**: 相機、網路、API 的多重備用方案 / Multiple backup solutions for camera, network, and API
 - 🎨 **實時預覽 / Real-time Preview**: LCD 螢幕即時顯示相機畫面和手勢信心度 / LCD screen displays camera feed and gesture confidence in real-time
 
+
+## 📸 輸出範例 / Example Output
+
+以下為本系統實際拍攝的照片，以及 AI 依該影像生成的新詩（真實裝置輸出範例）。
+
+Below is a real photo captured by the system and the Chinese poem generated from it.
+
+<p align="center">
+  <img src="docs/examples/example_classroom.jpg" alt="Poetry Camera example: classroom scene with raised hands" width="720" />
+</p>
+
+<p align="center"><em>Photo captured · 2025-05-27</em></p>
+
+```text
+黑板張開飢餓的嘴
+吞下所有舉起的手臂
+投影機吐出光的絲線
+織成我們發亮的困惑
+```
+
+<p align="center">
+  <img src="docs/examples/example_classroom_poster.jpg" alt="Poetry-Camera make poster with generated poem" width="720" />
+</p>
+
+<p align="center"><strong>Poetry-Camera make</strong> · example card with the same poem overlaid</p>
+
 ## 🚀 快速開始 / Quick Start
 
 ### 系統需求 / System Requirements
@@ -397,8 +423,8 @@ This project is inspired by and extends from poetry-camera-rpi. For the original
 
 ## 📞 聯絡方式 / Contact
 
-- 專案主頁 / Project Homepage: [GitHub Repository](https://github.com/ergeargwer/gesture_camera)
-- 問題回報 / Issue Report: [GitHub Issues](https://github.com/ergeargwer/gesture_camera/issues)
+- 專案主頁 / Project Homepage: [GitHub Repository](https://github.com/ergeargwer/Poetry-Camera)
+- 問題回報 / Issue Report: [GitHub Issues](https://github.com/ergeargwer/Poetry-Camera/issues)
 - 電子郵件 / Email: peter0910@gmail.com
 
 ## 📚 相關文檔 / Related Documentation
@@ -407,9 +433,9 @@ This project is inspired by and extends from poetry-camera-rpi. For the original
 - [環境測試報告](ENVIRONMENT.md) / [Environment Test Report](ENVIRONMENT.md)
 - [安裝依賴腳本](install_dependencies.sh) / [Installation Dependencies Script](install_dependencies.sh)
 
-![image](https://github.com/user-attachments/assets/5628465a-00bc-440e-b7c1-0cbd60c2380b)
+### 展示 / Demo
 
--https://youtu.be/R8WCF3kJ_Rg
-
+- 範例照片與生成詩見上方 [輸出範例](#-輸出範例--example-output) / See [Example Output](#-輸出範例--example-output) above
+- 示範影片 / Demo video: [YouTube](https://youtu.be/R8WCF3kJ_Rg)
 
 ⭐ 如果這個專案對您有幫助，請給我們一個星標！/ If this project helps you, please give us a star! ⭐
