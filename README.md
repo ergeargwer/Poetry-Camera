@@ -39,12 +39,6 @@ Below is a real photo captured by the system and the Chinese poem generated from
 織成我們發亮的困惑
 ```
 
-<p align="center">
-  <img src="docs/examples/example_classroom_poster.jpg" alt="Poetry-Camera make poster with generated poem" width="720" />
-</p>
-
-<p align="center"><strong>Poetry-Camera make</strong> · example card with the same poem overlaid</p>
-
 ## 🚀 快速開始 / Quick Start
 
 ### 系統需求 / System Requirements
