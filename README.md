@@ -423,6 +423,8 @@ This project is inspired by and extends from poetry-camera-rpi. For the original
 
 ## 📚 相關文檔 / Related Documentation
 
+- [專案簡報與逐頁縮圖](docs/talks/README.md) / [Talk deck + slide thumbnails](docs/talks/README.md)
+
 - [雙語介面修改總結](BILINGUAL_UI_SUMMARY.md) / [Bilingual UI Modification Summary](BILINGUAL_UI_SUMMARY.md)
 - [環境測試報告](ENVIRONMENT.md) / [Environment Test Report](ENVIRONMENT.md)
 - [安裝依賴腳本](install_dependencies.sh) / [Installation Dependencies Script](install_dependencies.sh)
