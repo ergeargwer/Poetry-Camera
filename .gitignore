@@ -55,7 +55,7 @@ Thumbs.db
 logs/
 *.log
 
-# Photos and generated content
+# Photos and generated content (runtime captures)
 photos/
 *.jpg
 *.jpeg
@@ -64,6 +64,9 @@ photos/
 *.bmp
 *.tiff
 *.tif
+# Keep curated README / docs example assets
+!docs/examples/
+!docs/examples/**
 
 # Temporary files
 *.tmp
